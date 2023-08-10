@@ -1,0 +1,11 @@
+x = int(input("input your 1st value:" ))
+y = int(input("input your 2nd value:" ))
+op= input("Enter your operator")
+if op == "+":
+  print(x + y)
+if op == "-":
+  print( y - x)
+if op == "*":
+  print(x * y)
+if op == "/":
+  print(x/y)
