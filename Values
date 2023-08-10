@@ -1,0 +1,7 @@
+x = int(input("input your 1st value:" ))
+y = int(input("input your 2nd value:" ))
+
+print(x + y)
+print( y - x)
+print(x * y)
+print(x/y)
